@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software- engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="![image](https://github.com/himanshu7379/himanshu7379/assets/143103539/8c8d5322-8bbf-40d8-8234-190588c7c8d5)
-"
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu7379&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu7379" /> </p>
 
