@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Java, JavaScript, Web development,**
 
-- 📫 How to reach me **shuklahimanshu9454@gmqil.com**
+- 📫 How to reach me **shuklahimanshu9454@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
